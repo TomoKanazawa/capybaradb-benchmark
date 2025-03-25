@@ -1,0 +1,52 @@
+Line Count Results for Implementation Files
+==========================================
+
+
+File: capybaradb/implementation.py
+Total lines: 51
+Empty lines: 5
+Comment lines: 5
+Import lines: 2
+Actual code lines: 39
+
+File: chroma/implementation.py
+Total lines: 115
+Empty lines: 15
+Comment lines: 13
+Import lines: 2
+Actual code lines: 85
+
+File: langchain/implementation.py
+Total lines: 95
+Empty lines: 14
+Comment lines: 13
+Import lines: 1
+Actual code lines: 67
+
+File: mongo/implementation.py
+Total lines: 107
+Empty lines: 15
+Comment lines: 2
+Import lines: 2
+Actual code lines: 88
+
+File: pgvector/implementation.py
+Total lines: 128
+Empty lines: 16
+Comment lines: 11
+Import lines: 3
+Actual code lines: 98
+
+File: pinecone/implementation.py
+Total lines: 107
+Empty lines: 18
+Comment lines: 14
+Import lines: 3
+Actual code lines: 72
+
+File: test_ingest.py
+Total lines: 115
+Empty lines: 20
+Comment lines: 22
+Import lines: 4
+Actual code lines: 69
